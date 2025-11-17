@@ -17,24 +17,13 @@ export default function Header() {
               My Target
             </h1>
             <p className="text-center lg:text-start font-rubik font-bold text-[9px] lg:text-base">
-              Hello! My name is Muhammad Naufal Jamil. I am a 10th grade{" "}
-              <br className="max-sm:hidden" /> student at Pondok Tahfizh Plus
-              Abu Dzar. I am currently <br className="max-sm:hidden" />{" "}
-              developing my skills, especially in web development and{" "}
-              <br className="max-sm:hidden" /> interface design. I aspire to
-              become a cadet at the Naval <br className="max-sm:hidden" />{" "}
-              Academy (AAL) and serve the country, while continuing to{" "}
-              <br className="max-sm:hidden" /> explore technology because I
-              believe discipline and curiosity <br className="max-sm:hidden" />{" "}
-              must go hand in hand. I have studied HTML, CSS, Tailwind CSS{" "}
-              <br className="max-sm:hidden" />, and am currently learning React
-              JS to build modern and <br className="max-sm:hidden" /> responsive
-              websites. In my spare time, I enjoy exercising{" "}
-              <br className="max-sm:hidden" /> , reading military history, and
-              writing action-adventure <br className="max-sm:hidden" /> stories,
-              believing that every small step with strong{" "}
-              <br className="max-sm:hidden" /> determination will lead to
-              extraordinary achievements.
+              Hello! My name is Muhammad Naufal Jamil. I’m a 10th grade student
+              with a strong passion for technology, especially web development
+              and interface design. I’ve learned HTML, CSS, and Tailwind CSS,
+              and I’m now exploring React JS to create modern, responsive, and
+              visually appealing websites. I enjoy experimenting with layouts,
+              colors, and interactive designs, constantly seeking to improve my
+              skills and build unique digital experiences.
             </p>
           </div>
         </section>
