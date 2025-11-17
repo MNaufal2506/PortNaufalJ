@@ -80,7 +80,7 @@ export default function Navbar() {
 
       <section class="bg-[#34757C] rounded-t-2xl flex flex-col gap-4 justify-center items-center py-5 px-2 bg-red-gelap text-center mt-5">
         <p class="font-lexend font-semibold text-xl  text-white max-sm:text-xs">
-          My Quote: Temukan tujuanmu, yakini dengan hati, dan kejar tanpa henti.
+          My Quote: Find your purpose, believe in it with all your heart, and pursue it without stopping.
         </p>
         <p class="font-lexend font-bold text-xl text-white max-sm:text-xs">
           Copyright © 2025 by Naufal | All Right Reserved.
