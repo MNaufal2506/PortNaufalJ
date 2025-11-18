@@ -12,7 +12,7 @@ export default function Header() {
         </a>
     </div>
     <div className="py-8 my-10 bg-white rounded-lg mx-5 lg:w-[550px] hover:scale-105 transition-transform duration-300">
-        <a href="">
+        <a href="https://mnaufal2506.github.io/Slicing-Tailwind/" >
             <img src={pro2} alt="" className="w-full"/>
         </a>
     </div>
