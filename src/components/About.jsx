@@ -4,11 +4,18 @@ import fm from "../assets/Figma.png";
 
 export default function Header() {
   return (
-    <main className="bg-black py-40">
-      <div>
-        <h1 className="bg-black text-white text-center font-rubik font-bold border-b-[6px] border-b-[#00A5FF]  text-[29px] mx-[100px] lg:mx-[680px] ">
-          About Me
+    <main className="bg-black py-40" id="about">
+      <div className="text-center mb-16">
+      
+        <h1 className="text-5xl font-bold text-white">
+          
+          About <span className="text-cyan-400">Me</span>
         </h1>
+        <p className="text-gray-400 mt-4">
+          
+          Get to know more about me, my skills, and my passion for web
+          development
+        </p>
       </div>
       <div className="lg:flex lg:px-20 lg:justify-between">
         <section className="bg-black flex-col justify-center text-center lg:justify-start  py-10 px-10 lg:px-3 text-white">
